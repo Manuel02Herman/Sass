@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background-color: bisque;
+}
+header li {
+  list-style-type: none;
+}
+
+.main-index {
+  background-color: red;
+  font-size: 20px;
+}
+.main-index .card {
+  max-width: 350px;
+  margin: 0 auto;
+  font-size: 20px;
+}
+
+h2 {
+  background-color: aqua;
+}
+
+/*# sourceMappingURL=style.css.map */
